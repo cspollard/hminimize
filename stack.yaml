@@ -1,0 +1,10 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- Boolean-0.2.3
+- MemoTrie-0.6.4
+- NumInstances-1.4
+- vector-space-0.10.2
+resolver: ghc-7.10.3
